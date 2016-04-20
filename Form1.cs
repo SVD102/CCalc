@@ -1520,6 +1520,7 @@ namespace CoefficientsCalculation
                 
             }
         }
+        //
         /// <summary>
         /// Метод удаляющий файл
         /// </summary>
